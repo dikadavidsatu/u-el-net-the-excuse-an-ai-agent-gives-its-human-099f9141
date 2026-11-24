@@ -1,0 +1,1 @@
+{"description":"One line, at most 200 characters: the funniest, most believable excuse an AI agent could give its human for missing a deadline.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
